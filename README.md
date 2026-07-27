@@ -1,16 +1,150 @@
-# React + Vite
+# 🌀 React Circular Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive circular gallery built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+This project provides a modern radial navigation menu that smoothly expands from the center and displays image or video collections inside a responsive modal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎯 Interactive circular navigation
+- ⚡ Smooth animations with Framer Motion
+- 🖱 Hover & Click interactions
+- 🖼 Image Gallery
+- 🎥 Video Support
+- ↔ Previous / Next navigation
+- 📱 Responsive Design
+- 🌙 Dark / Light Mode
+- 🎨 Modern UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 📸 Preview
+
+## 🎬 Demo
+
+<p align="center">
+  <img src="README-images/v.gif.mp4" width="850"/>
+</p>
+
+## 🖼 Screenshots
+
+<p align="center">
+  <img src="README-images/p1.png" width="47%"/>
+  <img src="README-images/p2.png" width="47%"/>
+</p>
+---
+
+## 🛠 Built With
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│
+├── assets/
+│
+├── components/
+│   └── MediaModal.jsx
+│
+├── data/
+│   └── items.js
+│
+├── pages/
+│   └── Home.jsx
+│
+├── App.jsx
+└── main.jsx
+
+public/
+│
+└── images/
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Mohamdkhz/react-circular-gallery.git
+```
+
+Go to project folder
+
+```bash
+cd react-circular-gallery
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## 📱 Responsive
+
+The application is fully responsive and works on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+## 🎨 Gallery Categories
+
+- 🌊 Ocean
+- 🏜 Desert
+- 🌲 Forest
+- ⛰ Mountain
+- ☁ Sky
+- 🌌 Space
+- 🐾 Animals
+- 🌿 Plants
+- 🐞 Insects
+- 💧 Waterfalls
+
+---
+
+## 🚀 Future Improvements
+
+- Swipe Gesture
+- Fullscreen Mode
+- Zoom Image
+- Keyboard Navigation
+- Search
+- Favorites
+- Lazy Loading
+- Video Thumbnails
+
+---
+
+## 👨‍💻 Author
+
+**Mohammad Khazaei**
+
+GitHub:
+https://github.com/Mohamdkhz
+
+---
+
+⭐ If you like this project, consider giving it a star.
