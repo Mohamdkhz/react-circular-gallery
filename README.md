@@ -25,7 +25,7 @@ This project provides a modern radial navigation menu that smoothly expands from
 ## 🎬 Demo
 
 <p align="center">
-  <img src="README-images/v.gif.mp4" width="850"/>
+  <img src="README-images/vvv.gif" width="850"/>
 </p>
 
 ## 🖼 Screenshots
