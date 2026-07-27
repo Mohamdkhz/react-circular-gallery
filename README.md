@@ -2,21 +2,30 @@
 
 An interactive circular gallery built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-This project provides a modern radial navigation menu that smoothly expands from the center and displays image or video collections inside a responsive modal.
+This project provides a modern radial navigation menu with smooth animations that allows users to explore image and video collections through a beautiful responsive modal interface.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **View the live project here:**
+
+https://react-circular-gallery.vercel.app
 
 ---
 
 ## ✨ Features
 
 - 🎯 Interactive circular navigation
-- ⚡ Smooth animations with Framer Motion
+- ⚡ Smooth animations powered by Framer Motion
 - 🖱 Hover & Click interactions
 - 🖼 Image Gallery
 - 🎥 Video Support
 - ↔ Previous / Next navigation
-- 📱 Responsive Design
+- 📱 Fully Responsive Design
 - 🌙 Dark / Light Mode
-- 🎨 Modern UI
+- 🎨 Modern UI / UX
+- 💫 Smooth modal transitions
 
 ---
 
@@ -34,6 +43,7 @@ This project provides a modern radial navigation menu that smoothly expands from
   <img src="README-images/p1.png" width="47%"/>
   <img src="README-images/p2.png" width="47%"/>
 </p>
+
 ---
 
 ## 🛠 Built With
@@ -79,7 +89,7 @@ Clone the repository
 git clone https://github.com/Mohamdkhz/react-circular-gallery.git
 ```
 
-Go to project folder
+Move into the project folder
 
 ```bash
 cd react-circular-gallery
@@ -91,7 +101,7 @@ Install dependencies
 npm install
 ```
 
-Run the project
+Run the development server
 
 ```bash
 npm run dev
@@ -101,12 +111,12 @@ npm run dev
 
 ## 📱 Responsive
 
-The application is fully responsive and works on:
+The application is fully responsive and optimized for:
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Tablet
+- 📲 Mobile
 
 ---
 
@@ -127,14 +137,16 @@ The application is fully responsive and works on:
 
 ## 🚀 Future Improvements
 
-- Swipe Gesture
-- Fullscreen Mode
-- Zoom Image
-- Keyboard Navigation
-- Search
-- Favorites
-- Lazy Loading
-- Video Thumbnails
+- 🤏 Swipe Gesture Support
+- 🔍 Image Zoom
+- 🖥 Fullscreen Mode
+- ⌨ Keyboard Navigation
+- 🔎 Search
+- ❤️ Favorites
+- ⚡ Lazy Loading
+- 🎞 Video Thumbnails
+- 🎵 Background Music
+- 🖼 Masonry Gallery Layout
 
 ---
 
@@ -142,9 +154,10 @@ The application is fully responsive and works on:
 
 **Mohammad Khazaei**
 
-GitHub:
-https://github.com/Mohamdkhz
+GitHub: https://github.com/Mohamdkhz
+
+Live Demo: https://react-circular-gallery.vercel.app
 
 ---
 
-⭐ If you like this project, consider giving it a star.
+⭐ If you like this project, consider giving it a star!
