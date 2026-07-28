@@ -152,7 +152,7 @@ The application is fully responsive and optimized for:
 
 ## 👨‍💻 Author
 
-**Mohammad Khazaei**
+**Mohammad Khazaee**
 
 GitHub: https://github.com/Mohamdkhz
 
